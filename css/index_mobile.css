@@ -1,0 +1,39 @@
+
+#leftSideBar {
+	position: relative;
+	width: auto;
+	height: auto;
+}
+
+#textSpan {
+	font-size: 20px;
+	background-image: url("../images/background_for_text.jpg"); 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#picturesMobile {
+	width: 100%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	display: block;
+	text-align: center;
+	background-image: url("../images/hedge.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#picturesDesktop {
+	display: none;
+}
+
+.picture {
+	display: inline-block;
+	overflow: hidden;
+	margin-top: 60px;
+	width: 90%;
+}

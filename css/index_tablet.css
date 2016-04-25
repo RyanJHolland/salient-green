@@ -1,0 +1,32 @@
+.picture {
+	width: auto;
+	height: auto;
+}
+
+#textSpan {
+	font-size: 20px;
+	height: auto;
+}
+
+#leftSideBar {
+	width: 36%;
+	min-height: 100%;
+	}
+
+	#picturesDesktop {
+		width: 50%;
+		min-width: 0px;
+		padding-right: 50px;
+	}
+
+
+	#pansies,#daffodils,#flowerpot,#flower_mix {
+	margin-top: 50px;
+	width: 400px;
+	max-width: 100%;
+	height: auto;
+}
+
+#flower_mix {
+	margin-bottom: 50px;
+}
